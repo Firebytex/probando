@@ -1,3 +1,5 @@
 <?php
-$txt = "Hello world! wow";
+$txt = "Hello world! wow wow";
+
+$num = 4;
 
